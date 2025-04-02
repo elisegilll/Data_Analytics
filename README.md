@@ -1,1 +1,2 @@
 # Data_Analytics
+The primary purpose of this experiment is to effectively predict customer churn by applying data analytics and machine learning techniques to a telecommunications dataset containing customer characteristics and usage patterns. This study aims to uncover factors most strongly associated with churn and develop predictive models that provide actionable insights for retention strategies.
